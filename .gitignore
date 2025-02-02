@@ -1,0 +1,5 @@
+# PyInstaller generated files
+build/
+dist/
+*.spec
+program/vat_extractor.py
